@@ -18,6 +18,8 @@ Evaluar la capacidad predictiva de  para predecir la necesidad de transfusiones 
 - Pandas, NumPy, Scikit-learn
 - TensorFlow, Keras
 - Matplotlib, Seaborn
+- XGBoost, LightGBM, CatBoost
+- Statsmodels
 - Jupyter Notebook
 
 ##  Estructura del repositorio
