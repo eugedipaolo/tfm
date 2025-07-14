@@ -28,7 +28,8 @@ analisis_transfusiones.ipynb # Notebook principal con todo el análisis
 
 README.md # Este archivo
 
-datos/
+HDHI Admission data.csv # Conjunto de datos
+
 
 ## Instrucciones de uso
 
