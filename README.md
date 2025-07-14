@@ -22,10 +22,9 @@ Evaluar la capacidad predictiva de  para predecir la necesidad de transfusiones 
 
 ##  Estructura del repositorio
 
-├── analisis_transfusiones.ipynb # Notebook principal con todo el análisis
-├── README.md # Este archivo
-├── requirements.txt # Lista de dependencias
-└── datos/
+analisis_transfusiones.ipynb # Notebook principal con todo el análisis
+README.md # Este archivo
+datos/
 
 ## Instrucciones de uso
 
