@@ -24,20 +24,29 @@ Evaluar la capacidad predictiva de  para predecir la necesidad de transfusiones 
 
 ##  Estructura del repositorio
 
-analisis_transfusiones.ipynb # Notebook principal con todo el análisis
+eDA.ipynb: Análisis exploratorio de los datos. Incluye visualizaciones de la distribución de grupos sanguíneos, evolución temporal, análisis de estacionalidad y generación de la variable proxy needs_transfusion.
+
+demanda_O_pos.ipynb: Modelo predictivo para la demanda de sangre del tipo O⁺.
+
+demanda_O_neg.ipynb: Modelo predictivo para la demanda de sangre del tipo O⁻.
+
+demanda_A_pos.ipynb: Modelo para tipo A⁺.
+
+demanda_A_neg.ipynb: Modelo para tipo A⁻.
+
+demanda_B_pos.ipynb: Modelo para tipo B⁺.
+
+demanda_B_neg.ipynb: Modelo para tipo B⁻.
+
+demanda_AB_pos.ipynb: Modelo para tipo AB⁺.
+
+demanda_AB_neg.ipynb: Modelo para tipo AB⁻.
+
+HDHI Admission data.csv: Conjunto de datos base utilizado para todos los análisis y modelos.
 
 README.md # Este archivo
 
-HDHI Admission data.csv # Conjunto de datos
-
-
-## Instrucciones de uso
-
-1. Abrir el notebook:
-
-   ```bash
-   jupyter notebook analisis_transfusiones.ipynb
-
-Licencia
-Este proyecto está licenciado bajo los términos de la licencia MIT.
+Autor
+María Eugenia Di Paolo
+Máster en Inteligencia Artificial — UNIR (2025)
 
