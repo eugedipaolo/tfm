@@ -8,13 +8,13 @@ Evaluar la capacidad de modelos de ML y DL para predecir la necesidad de transfu
 - Limpieza y transformación de datos hospitalarios
 - Construcción de la variable proxy `needs_transfusion`
 - Análisis exploratorio de datos
-- Entrenamiento de modelos de ML (StackingRegressor)
-- Entrenamiento de modelos de DL (redes LSTM)
+- Entrenamiento de modelos de ML para la predicciíon de cada tipo de sangre (StackingRegressor)
+- Entrenamiento de modelos de DL para la predicciíon de cada tipo de sangre (redes LSTM)
 - Evaluación y comparación de métricas
 
 ## Tecnologías utilizadas
 
-- Python 3.x
+- Python 3.12.4
 - Pandas, NumPy, Scikit-learn
 - TensorFlow, Keras
 - Matplotlib, Seaborn
