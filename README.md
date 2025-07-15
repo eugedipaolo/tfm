@@ -24,7 +24,7 @@ Evaluar la capacidad predictiva de  para predecir la necesidad de transfusiones 
 
 ##  Estructura del repositorio
 
-eDA.ipynb: Análisis exploratorio de los datos. Incluye visualizaciones de la distribución de grupos sanguíneos, evolución temporal, análisis de estacionalidad y generación de la variable proxy needs_transfusion.
+eda.ipynb: Análisis exploratorio de los datos. Incluye visualizaciones de la distribución de grupos sanguíneos, evolución temporal, análisis de estacionalidad y generación de la variable proxy needs_transfusion.
 
 demanda_O_pos.ipynb: Modelo predictivo para la demanda de sangre del tipo O⁺.
 
